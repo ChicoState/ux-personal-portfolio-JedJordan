@@ -1,1 +1,13 @@
-# First Journal Entry...
+# Roundabout Ratings
+The majority of my time spent playing video games is usually on my PC. Much of that time is spent on Steam which is a video game storefront and digital distribution service. On occasion, I use a competitor service known as the [Epic Game Store](https://store.epicgames.com/en-US/) (EGS). 
+
+Browsing the Epic Game Store, one can look through the games available as well as detailed information for each. One of the metrics one can look at for each game is player reviews. Players can rate a game from 0-5 stars as well as include tags they think encompass it. I rarely ever review products but I wanted to at least see how it works on EGS.  
+  
+![EpicGamesLauncher_2024-03-17_19-07-25](https://github.com/ChicoState/ux-personal-portfolio-JedJordan/assets/111708782/d4559666-7415-4544-ab26-69768d4f59b1)
+With that in mind, I went to my library to see if I could rate any of my games. My first instinct was that there would be some way to rate/review it within my library. If not, going to the store page for a game I already owned would show some way to place my rating would be my next guess. Below is a GIF of me trying to find a way to rate a game I have already played in my library:  
+  
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhqYmNmcnV0bGsxc3Exd3Nqc21xcGZweHMya3o3MHBpd3lyM3d0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/esIiZg0amAq6FWS0Cc/giphy.gif)  
+  
+This issue of not easily being able to review or rate a product you have purchased  demonstrates an application of **“Consistency and Standards”**, a usability guideline for using concepts in the real world that helps users become more comfortable with UX designs. Seeing as I was not able to find a way to rate a game I had bought and played meant that my **mental model** for how I thought it would work did not match the **conceptual model** for how ratings actually work. Many other sites where I have purchased a product like Amazon, eBay and Steam all make it easy for one to leave a review and rating.  
+
+The actual way to leave a player review for a game on EGS is quite hard to find. Another piece of that usability guideline, **“Help and Documentation”**, was key in figuring out [how it actually works](https://store.epicgames.com/en-US/news/the-epic-games-store-ratings-and-polls-update). A player must have at least two hours of playtime for a given game. The player is then eligible to be randomly selected after a session of that game to rate it afterwards. I understand the two hour minimum barrier as it means people cannot rate it without giving enough time but the fact that being able to rate your games is random is quite shocking. I think a better solution to this would just be to remove said randomness and let users rate their products after the two hour mark at any time in the store. 
